@@ -26,7 +26,7 @@ dependencies {
     runtimeOnly("com.h2database:h2")
     annotationProcessor("org.projectlombok:lombok")
     testImplementation("org.springframework.boot:spring-boot-starter-test")
-    implementation("org.jobrunr:jobrunr-spring-boot-starter:5.2.0")
+    implementation("org.jobrunr:jobrunr-spring-boot-starter:5.3.3")
 
 }
 
